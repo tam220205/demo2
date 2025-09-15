@@ -1,0 +1,64 @@
+.container {
+    display: flex;
+    padding-top: 15px;
+}
+.Bgr {
+    background-color: #f5f1f1;
+}
+.form-table td{
+    padding: 15px 30px;
+    vertical-align: middle;
+}
+.Trai {
+    padding: 0;
+    width: 80%;
+    
+}
+.tieudeH4 {
+    border-bottom: 2px solid #c7c3c3;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+.Phai {
+    padding: 0;
+    width: 20%;
+    margin-left: 90px;
+}
+.Phai .list-group-item a {
+    color: rgb(212, 106, 165);
+    text-decoration: none;
+}
+
+.Phai .list-group-item a:hover {
+    text-decoration: underline;
+}
+.link-hover {
+  color: #6c757d; 
+  text-decoration: none;
+}
+.link-hover:hover{
+  color: #ec51bd; 
+}
+.Nav {
+    background-color: rgb(236, 151, 193);
+}
+.timkiem {
+        height: 65px;
+        width: 500px;
+        font-size: 20px;
+        background-color: #f4f2f2;
+}
+.taikhoan {
+    height: 65px;
+    width: 150px;
+    font-size: 20px;
+}
+.btn-tieptuc {
+    background-color: rgb(236, 151, 193); 
+    color: black;
+}
+
+.btn-tieptuc:hover {
+    background-color: #eb779e; 
+    border-color: #ec407a;
+}

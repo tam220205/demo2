@@ -1,0 +1,38 @@
+.khungto {
+    padding: 40px 20px;
+    max-width: 1200px;
+    margin: auto;
+    background-color: #f5f1f1;
+}
+.khungnho {
+    display: flex;
+}
+.link-hover {
+  color: #6c757d; 
+  text-decoration: none;
+}
+.link-hover:hover{
+  color: #ec51bd; 
+}
+.Nav {
+    background-color: rgb(236, 151, 193);
+}
+.timkiem {
+        height: 65px;
+        width: 500px;
+        font-size: 20px;
+        background-color: #f4f2f2;
+}
+.taikhoan {
+    height: 65px;
+    width: 150px;
+    font-size: 20px;
+}
+.btn-tieptuc {
+    background-color:  rgb(236, 151, 193);; 
+}
+
+.btn-tieptuc:hover {
+    background-color: #eb779e; 
+    border-color: #ec407a;
+}
